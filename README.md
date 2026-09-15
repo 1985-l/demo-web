@@ -7,7 +7,7 @@
 克隆仓库：
 
 ```bash
-git clone https://github.com/<your-account>/demo-web.git
+git clone https://github.com/1985-l/demo-web.git
 cd demo-web
 ```
 
